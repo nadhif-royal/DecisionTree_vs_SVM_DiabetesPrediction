@@ -32,7 +32,10 @@ We implemented **Decision Tree** and **SVM** and compared their performance usin
 - The comparison highlights the **effectiveness of SVM** in handling this dataset.
 
 ## 📂 Repository Structure
-📂 DecisionTree_vs_SVM_DiabetesPrediction │── 📄 DecisionTree_SVM_Comparison.ipynb # Jupyter Notebook with code & analysis │── 📄 Presentation - Diabetes Prediction Machine Learning.pdf # Summary of results │── 📄 README.md # Project documentation
+📂 DecisionTree_vs_SVM_DiabetesPrediction 
+│── 📄 DecisionTree_SVM_Comparison.ipynb # Jupyter Notebook with code & analysis 
+│── 📄 Presentation - Diabetes Prediction Machine Learning.pdf # Summary of results 
+│── 📄 README.md # Project documentation
 
 
 ## 💡 Conclusion
